@@ -1,4 +1,4 @@
-# GitHub Copilot Instructions for Tarides Company Handbook
+# GitHub Copilot Instructions for Tarides Template Repository
 
 This repository is a template providing standard file boilerplate to encourage shared best practices for all projects created in the Tarides organization.
 
