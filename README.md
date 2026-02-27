@@ -7,9 +7,9 @@
 This repository contains the **Tarides Company Handbook** - a publicly visible
 resource that documents our company's policies, practices, and culture.
 
-## About This Handbook
+## Contents
 
-This handbook is publicly visible - anyone can read and learn from our practices.
+- [Values](./VALUES.md)
 
 ## Contributing
 
