@@ -5,5 +5,5 @@
 set -e
 
 echo "Linting Markdown files..."
-npx markdownlint '**/*.md' --ignore node_modules
+markdownlint '**/*.md'
 echo "✓ All Markdown files are correctly formatted"
