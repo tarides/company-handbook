@@ -1,0 +1,9 @@
+#!/bin/bash
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Tarides <contact@tarides.com>
+
+set -e
+
+echo "Linting Markdown files..."
+npx markdownlint '**/*.md' --ignore node_modules
+echo "✓ All Markdown files are correctly formatted"

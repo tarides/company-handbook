@@ -1,0 +1,12 @@
+{
+  "name": "company-handbook",
+  "version": "1.0.0",
+  "description": "Tarides Company Handbook",
+  "scripts": {
+    "build": "./build"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.39.0"
+  },
+  "private": true
+}

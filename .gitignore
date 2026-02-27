@@ -2,3 +2,6 @@
 _build/
 # Opam switch directory
 _opam/
+# Node modules
+node_modules/
+package-lock.json
