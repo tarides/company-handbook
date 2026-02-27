@@ -17,12 +17,11 @@ leadership at Tarides to ensure consistency and accuracy.
 This project is distributed under the MIT license. Every source file should
 start with a header comment specifying the license using an [SPDX license
 identifier](https://spdx.dev/learn/handling-license-info/) along with a
-copyright notice. E.g., for an OCaml file:
+copyright notice. E.g., for a shell script:
 
-```ocaml
-(* SPDX-License-Identifier: MIT
- * Copyright (c) <date> <author> <email>
- *)
+```sh
+# SPDX-License-Identifier: MIT
+# Copyright (c) <date> <author> <email>
 ```
 
 Note that:
@@ -41,11 +40,10 @@ Note that:
 For example, for a source file with multiple contributors spanning
 several years, the copyright lines may look as follows:
 
-```ocaml
-(* SPDX-License-Identifier: MIT
- * Copyright (c) 2013-2022 Thomas Gazagnaire <thomas@gazagnaire.org>
- * Copyright (c) 2018-2022 Tarides <contact@tarides.com>
- *)
+```sh
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2013-2022 Thomas Gazagnaire <thomas@gazagnaire.org>
+# Copyright (c) 2018-2022 Tarides <contact@tarides.com>
 ```
 
 ---
