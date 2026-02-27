@@ -47,3 +47,9 @@ several years, the copyright lines may look as follows:
  * Copyright (c) 2018-2022 Tarides <contact@tarides.com>
  *)
 ```
+
+---
+
+<a href="https://tarides.com/">
+<img src="./Tarides.svg" width="200" alt="Tarides" />
+</a>
