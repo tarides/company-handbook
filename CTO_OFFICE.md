@@ -73,7 +73,7 @@ impact, research, events and public reporting.
 
 - Jon Ludlam
   - Contributes to OCaml documentation tools and workflows
-  - <https://jon.recoil.org/blog/2025/index.html>
+  - <https://jon.recoil.org/index.html>
 - KC
   - CTO of Tarides
   - <https://kcsrk.info/blog/>
@@ -85,4 +85,4 @@ impact, research, events and public reporting.
   - <https://patrick.sirref.org/weeklies/index.xml>
 - Sadiq Jaffer
   - Contributes to core OCaml and the multicore runtime
-  - <https://toao.com/drafts/ocaml-local-code-models>
+  - <https://toao.com/category/posts.html>
