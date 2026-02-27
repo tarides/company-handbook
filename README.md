@@ -5,9 +5,9 @@ This repository contains the **Tarides Company Handbook** - a publicly visible r
 ## About This Handbook
 
 This handbook is:
-- **Public**: Anyone can read and learn from our practices
+- **Publicly Visible**: Anyone can read and learn from our practices
 - **Open to Contributions**: We welcome contributions from anyone who wants to help improve this handbook
-- **Maintained by Leadership**: While contributions are welcome, only senior leadership at Tarides may merge changes to ensure consistency and accuracy
+- **Leadership Maintained**: While contributions are welcome, only senior leadership at Tarides may merge changes to ensure consistency and accuracy
 
 ## Contributing
 
