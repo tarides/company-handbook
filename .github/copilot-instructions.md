@@ -14,7 +14,9 @@ guidelines for Tarides.
 - This project is distributed under the MIT license.
 - Every source file should start with a header comment specifying the license
   using an SPDX license identifier along with a copyright notice.
-- Markdown files need not contain such a header.
+  - That header should be separated from the remainder of the file with a blank
+    line, if the file format permits.
+  - Markdown files need not contain such a header.
 
 ### Copyright Holder Guidelines
 
@@ -28,13 +30,15 @@ guidelines for Tarides.
 
 ## Documentation Standards
 
-- Use clear, concise markdown formatting
-- Maintain consistent structure across documentation files
-- Always reference Tarides branding at the bottom of documentation files
-- Follow markdown best practices
+- Use clear, concise markdown formatting.
+- Maintain consistent structure across documentation files.
+- Always reference Tarides branding at the bottom of documentation files.
+  - This only applies if the Tarides branding is not already present elsewhere
+    in the file.
+- Follow markdown best practices.
 
 ## General Guidelines
 
-- When making changes, ensure they maintain documentation clarity and accuracy
-- Document any new policies or practices in the appropriate files
-- Keep language professional and accessible
+- When making changes, ensure they maintain documentation clarity and accuracy.
+- Document any new policies or practices in the appropriate files.
+- Keep language professional and accessible.
