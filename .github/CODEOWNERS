@@ -1,0 +1,5 @@
+# CODEOWNERS file for the Tarides company handbook
+# These owners will be requested for review when someone opens a pull request.
+# Only these persons are permitted to give a review that modifies the 'main' branch.
+
+* @robinbb @samoht @GemmaG
