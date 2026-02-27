@@ -7,9 +7,17 @@
 This repository contains the **Tarides Company Handbook** - a publicly visible
 resource that documents our company's policies, practices, and culture.
 
-## About This Handbook
+Tarides is a remote-friendly software consulting firm that has three main
+places of operation:
 
-This handbook is publicly visible - anyone can read and learn from our practices.
+- Paris, France
+- Cambridge, UK
+- Chennai, India
+
+## Handbook Topics
+
+- [Mission](./MISSION.md)
+- [Values](./VALUES.md)
 
 ## Contributing
 
