@@ -1,19 +1,14 @@
 # Contributing
 
-We welcome contributions from anyone! This handbook is publicly visible and open to improvements from the broader community.
-
-## Contribution Process
-
-1. **Everyone Can Contribute**: Whether you're part of Tarides or an external contributor, we appreciate your input
-2. **Submit Pull Requests**: Propose changes through pull requests
-3. **Leadership Review**: All contributions will be reviewed and merged only by senior leadership at Tarides to ensure consistency and accuracy
+Contributions are welcome from anyone! Whether you're part of Tarides or an external contributor, we appreciate your input to improve this handbook.
 
 ## How to Contribute
 
-- Fork this repository
-- Make your changes in a new branch
-- Submit a pull request with a clear description of your changes
-- Wait for review from senior leadership
+1. Fork this repository
+2. Make your changes in a new branch
+3. Submit a pull request with a clear description of your changes
+
+**Note**: All pull requests will be reviewed and merged only by senior leadership at Tarides to ensure consistency and accuracy.
 
 ## License
 
