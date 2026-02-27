@@ -2,6 +2,7 @@
   "name": "company-handbook",
   "version": "1.0.0",
   "description": "Tarides Company Handbook",
+  "license": "MIT",
   "scripts": {
     "build": "./build"
   },
