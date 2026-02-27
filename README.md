@@ -18,6 +18,7 @@ places of operation:
 
 - [Mission](./MISSION.md)
 - [Values](./VALUES.md)
+- [CTO Office](./CTO_OFFICE.md)
 
 ## Contributing
 
