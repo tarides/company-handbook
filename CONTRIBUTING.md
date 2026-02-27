@@ -1,5 +1,15 @@
 # Contributing
 
+Contributions are welcome from anyone! Whether you're part of Tarides or an external contributor, we appreciate your input to improve this handbook.
+
+## How to Contribute
+
+1. Fork this repository
+2. Make your changes in a new branch
+3. Submit a pull request with a clear description of your changes
+
+**Note**: All pull requests will be reviewed and merged only by senior leadership at Tarides to ensure consistency and accuracy.
+
 ## License
 
 This project is distributed under the MIT license. Every source file should
