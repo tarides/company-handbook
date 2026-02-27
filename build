@@ -1,0 +1,12 @@
+#! /bin/sh
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Tarides <contact@tarides.com>
+
+# This script requires markdownlint-cli to be installed.
+# Source: https://github.com/igorshubovych/markdownlint-cli
+
+set -e
+
+echo "Linting Markdown files..."
+markdownlint '**/*.md'
+echo "✓ All Markdown files are correctly formatted"
