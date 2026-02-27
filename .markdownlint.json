@@ -7,8 +7,7 @@
     "code_blocks": true,
     "tables": true,
     "headings": true,
-    "strict": false,
-    "stern": false
+    "strict": false
   },
   "MD033": false,
   "MD041": false
