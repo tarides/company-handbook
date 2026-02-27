@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Tarides <contact@tarides.com>
-#
+
 # CODEOWNERS file for the Tarides company handbook
 # These owners will be requested for review when someone opens a pull request.
 # Only these persons are permitted to give a review that modifies the 'main' branch.

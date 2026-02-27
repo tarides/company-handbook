@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Tarides <contact@tarides.com>
-#
+
 # Dune build directory
 _build/
 # Opam switch directory
