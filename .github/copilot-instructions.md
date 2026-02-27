@@ -1,10 +1,10 @@
-# GitHub Copilot Instructions for Tarides Template Repository
+# GitHub Copilot Instructions for Tarides Company Handbook
 
-This repository is a template providing standard file boilerplate to encourage shared best practices for all projects created in the Tarides organization.
+This repository contains documentation for the Tarides company handbook.
 
 ## Project Overview
 
-This is a company handbook template repository that provides boilerplate files and guidelines for new projects at Tarides. It includes standard files like LICENSE.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, and project documentation templates.
+This is a company handbook containing documentation, policies, and guidelines for Tarides. It includes standard documentation files like README.md, LICENSE.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, and CHANGES.md.
 
 ## Coding Standards
 
@@ -12,13 +12,6 @@ This is a company handbook template repository that provides boilerplate files a
 
 - This project is distributed under the MIT license.
 - Every source file should start with a header comment specifying the license using an SPDX license identifier along with a copyright notice.
-- For OCaml files, use the following format:
-
-```ocaml
-(* SPDX-License-Identifier: MIT
- * Copyright (c) <date> <author> <email>
- *)
-```
 
 ### Copyright Holder Guidelines
 
@@ -27,37 +20,21 @@ This is a company handbook template repository that provides boilerplate files a
   - If there's already a copyright for your holder, it's not required to add the current year (but allowed). Never replace existing years.
   - If there's no line for your copyright holder, add one with the current year.
 
-### OCaml Formatting
-
-- This project uses OCaml version 5.2 and ocamlformat version 0.26.0.
-- The `.ocamlformat` configuration specifies:
-  - Profile: conventional
-  - OCaml version: 5.2
-  - Break infix: fit-or-vertical
-  - Parse docstrings: true
-- Always run ocamlformat on OCaml files before committing.
-
-## Build System
-
-- Uses Dune build system (check for `_build/` directory in `.gitignore`).
-- Uses Opam for package management (check for `_opam/` directory in `.gitignore`).
-
 ## File Structure
 
-- Keep standard boilerplate files at the root: README.md, LICENSE.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, CHANGES.md
-- Build artifacts should be excluded via `.gitignore` (`_build/`, `_opam/`)
+- Keep standard documentation files at the root: README.md, LICENSE.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, CHANGES.md
 - Include Tarides.svg logo for branding
 
-## Documentation
+## Documentation Standards
 
-- README.md uses markdown with TODOs for template customization
-- Sections should include: Synopsis, Installation, Documentation, Contribution
-- Always reference Tarides branding at the bottom of README files
+- Use clear, concise markdown formatting
+- Maintain consistent structure across documentation files
+- Always reference Tarides branding at the bottom of documentation files
+- Follow markdown best practices
 
 ## General Guidelines
 
-- When making changes, ensure they align with template-first approach
+- When making changes, ensure they maintain documentation clarity and accuracy
 - Maintain consistency with existing file structure
-- Keep boilerplate generic enough to work across different project types
-- Document any new standard practices in the appropriate files
-- Follow markdown best practices for documentation files
+- Document any new policies or practices in the appropriate files
+- Keep language professional and accessible
