@@ -1,39 +1,20 @@
-This repository is a template providing standard file boilerplate to encourage
-shared best practices for all projects created in our organization. Please
-improve it as the need arises.
+# Tarides Company Handbook
 
-To get started:
+This repository contains the **Tarides Company Handbook** - a publicly visible resource that documents our company's policies, practices, and culture.
 
-- [ ] Click the green `Use this template` button in the upper right, and select
-      "Create a new repository".
-- [ ] Will in the necessary data in the repo creating form.
-- [ ] Run `git grep TODO` to see all the locations needing attention. Replace
-      any text of the form `${FOO}` with the appropriate values.
-- [ ] Delete this task list and the preamble.
+## About This Handbook
 
-# ${PROJECT_NAME}
+This handbook is:
+- **Public**: Anyone can read and learn from our practices
+- **Open to Contributions**: We welcome contributions from anyone who wants to help improve this handbook
+- **Maintained by Leadership**: While contributions are welcome, only senior leadership at Tarides may merge changes to ensure consistency and accuracy
 
-<!-- TODO -->
+## Contributing
 
-## Synopsis
-
-<!-- TODO -->
-
-## Installation
-
-<!-- TODO -->
-
-## Documentation
-
-<!-- TODO -->
-
-## Contribution
-
-Contributions are most welcome!
-
-<!-- TODO -->
-- [File issues](${ISSUE_URL}) to report bugs or feature requests.
-- [Contribute code or documentation](./CONTRIBUTING.md)
+We value input from everyone! If you'd like to contribute:
+- [File issues](https://github.com/tarides/company-handbook/issues) to suggest improvements or report issues
+- [Submit contributions](./CONTRIBUTING.md) by following our contribution guidelines
+- Please note that all contributions will be reviewed by senior leadership before being merged
 
 ---
 
