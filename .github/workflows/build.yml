@@ -26,5 +26,5 @@ jobs:
       - name: Install markdownlint-cli
         run: npm install -g markdownlint-cli
 
-      - name: Run build script
-        run: ./build
+      - name: Run check script
+        run: ./check
