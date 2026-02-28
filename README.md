@@ -19,6 +19,7 @@ places of operation:
 - [Mission](./doc/MISSION.md)
 - [Values](./doc/VALUES.md)
 - [CTO Office](./doc/CTO_OFFICE.md)
+- [Management Career Path](./doc/MGMT_CAREER_PATH.md)
 
 ## Contributing
 
