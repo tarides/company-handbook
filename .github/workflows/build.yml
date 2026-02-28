@@ -27,4 +27,4 @@ jobs:
         run: npm install -g markdownlint-cli
 
       - name: Run check script
-        run: ./check
+        run: ./ops/check

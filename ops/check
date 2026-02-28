@@ -8,5 +8,5 @@
 set -e
 
 echo "Linting Markdown files..."
-markdownlint '**/*.md'
+markdownlint -c ops/.markdownlintrc '**/*.md'
 echo "✓ All Markdown files are correctly formatted"
