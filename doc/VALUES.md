@@ -42,3 +42,9 @@ We build systems based on a scientific foundation to last for decades and drive
 positive change for the world. We do not compromise on quality. We both use and
 build open-source software to craft original, unique systems that have a
 significant, positive impact on our community, industry, and society.
+
+---
+
+<a href="https://tarides.com/">
+<img src="./Tarides.svg" width="200" alt="Tarides" />
+</a>

@@ -86,3 +86,9 @@ impact, research, events and public reporting.
 - Sadiq Jaffer
   - Contributes to core OCaml and the multicore runtime
   - <https://toao.com/category/posts.html>
+
+---
+
+<a href="https://tarides.com/">
+<img src="./Tarides.svg" width="200" alt="Tarides" />
+</a>

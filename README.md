@@ -7,8 +7,10 @@
 This repository contains the **Tarides Company Handbook** - a publicly visible
 resource that documents our company's policies, practices, and culture.
 
-Tarides is a remote-friendly software consulting firm that has three main
-places of operation:
+## About Tarides
+
+[Tarides](https://tarides.com/) is a remote-friendly software consulting firm
+with three main places of operation:
 
 - Paris, France
 - Cambridge, UK
@@ -23,4 +25,4 @@ places of operation:
 
 ## Contributing
 
-We welcome contributions from anyone! See ./CONTRIBUTING.md.
+We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md).

@@ -9,3 +9,9 @@ Ranks of software engineering manager at Tarides:
 5. Senior Director of Engineering
 6. VP of Engineering ("VP")
 7. Senior VP of Engineering ("SVP")
+
+---
+
+<a href="https://tarides.com/">
+<img src="./Tarides.svg" width="200" alt="Tarides" />
+</a>
