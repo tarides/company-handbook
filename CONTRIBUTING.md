@@ -49,5 +49,5 @@ several years, the copyright lines may look as follows:
 ---
 
 <a href="https://tarides.com/">
-<img src="./Tarides.svg" width="200" alt="Tarides" />
+<img src="./doc/Tarides.svg" width="200" alt="Tarides" />
 </a>

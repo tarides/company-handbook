@@ -11,5 +11,5 @@ To report any violations, please contact: <contact@tarides.com>
 ---
 
 <a href="https://tarides.com/">
-<img src="./Tarides.svg" width="200" alt="Tarides" />
+<img src="./doc/Tarides.svg" width="200" alt="Tarides" />
 </a>
