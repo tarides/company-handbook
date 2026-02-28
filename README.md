@@ -1,5 +1,5 @@
 <a href="https://tarides.com/">
-<img src="./Tarides.svg" width="200" alt="Tarides" />
+<img src="./doc/Tarides.svg" width="200" alt="Tarides" />
 </a>
 
 # Tarides Company Handbook
@@ -16,11 +16,11 @@ places of operation:
 
 ## Handbook Topics
 
-- [Mission](./MISSION.md)
-- [Values](./VALUES.md)
-- [CTO Office](./CTO_OFFICE.md)
+- [Mission](./doc/MISSION.md)
+- [Values](./doc/VALUES.md)
+- [CTO Office](./doc/CTO_OFFICE.md)
 
 ## Contributing
 
 We welcome contributions from anyone! Please see
-[CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to contribute.
+[CONTRIBUTING.md](./doc/CONTRIBUTING.md) for details on how to contribute.
