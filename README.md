@@ -23,5 +23,4 @@ places of operation:
 
 ## Contributing
 
-We welcome contributions from anyone! Please see
-[CONTRIBUTING.md](./doc/CONTRIBUTING.md) for details on how to contribute.
+We welcome contributions from anyone! See ./CONTRIBUTING.md.
