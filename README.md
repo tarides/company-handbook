@@ -22,6 +22,7 @@ with three main places of operation:
 - [Values](./doc/VALUES.md)
 - [CTO Office](./doc/CTO_OFFICE.md)
 - [Management Career Path](./doc/MGMT_CAREER_PATH.md)
+- [Roles](./doc/Roles.md)
 
 ## Contributing
 
