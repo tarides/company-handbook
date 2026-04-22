@@ -23,6 +23,7 @@ with three main places of operation:
 - [CTO Office](./doc/CTO_OFFICE.md)
 - [Management Career Path](./doc/MGMT_CAREER_PATH.md)
 - [Roles](./doc/Roles.md)
+- [Skills](./doc/skills/README.md)
 
 ## Contributing
 
